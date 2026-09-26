@@ -1,4 +1,4 @@
-# GitHub Publish
+# GitHub Publish Skill
 
 ### 用于整理项目并发布到 GitHub 的 Codex Skill
 
@@ -40,7 +40,7 @@
 对 Codex 说：
 
 ```text
-使用 $skill-installer 安装 https://github.com/cloudwallker/github-publish
+使用 $skill-installer 安装 https://github.com/cloudwallker/github-publish-skill
 仓库根目录中的 Skill，安装名称为 github-publish。
 ```
 

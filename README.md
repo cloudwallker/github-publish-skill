@@ -1,4 +1,4 @@
-# GitHub Publish
+# GitHub Publish Skill
 
 ### A Codex skill for preparing and publishing projects on GitHub
 
@@ -41,7 +41,7 @@ Ask Codex:
 
 ```text
 Use $skill-installer to install the skill at the root of
-https://github.com/cloudwallker/github-publish as github-publish.
+https://github.com/cloudwallker/github-publish-skill as github-publish.
 ```
 
 Codex detects installed skills automatically; if the skill does not appear, restart Codex. Installing the skill does not authorize it to publish a project. See the [official skill guide](https://developers.openai.com/codex/skills/).
