@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="620" viewBox="0 0 960 620" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub Publish workflow</title>
+  <desc id="desc">Prepare project files, audit files, index and commits, then publish with your own GitHub identity. Release publishing is optional and requires a separate request.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#14233b"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#60a5fa"/>
+      <stop offset="1" stop-color="#5eead4"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="620" rx="28" fill="url(#bg)"/>
+  <path d="M0 196H960M0 468H960M320 196V468M640 196V468" stroke="#20314a" stroke-width="1"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="48" y="65" fill="#93c5fd" font-size="23" font-weight="600" letter-spacing="3">GITHUB PUBLISH</text>
+    <text x="48" y="132" fill="#f8fafc" font-size="57" font-weight="700">Ship the project.</text>
+    <text x="49" y="174" fill="#b4c6dc" font-size="28">Keep private work private.</text>
+    <path d="M96 241H864" stroke="#446888" stroke-width="3"/>
+    <g fill="#101d31" stroke="#416385" stroke-width="2">
+      <rect x="32" y="260" width="280" height="180" rx="18"/>
+      <rect x="340" y="260" width="280" height="180" rx="18"/>
+      <rect x="648" y="260" width="280" height="180" rx="18"/>
+    </g>
+    <g fill="#5eead4">
+      <circle cx="172" cy="241" r="7"/><circle cx="480" cy="241" r="7"/><circle cx="788" cy="241" r="7"/>
+    </g>
+    <g fill="#93c5fd" font-size="22" font-weight="600" letter-spacing="1">
+      <text x="56" y="304">01 / PREPARE</text>
+      <text x="364" y="304">02 / AUDIT</text>
+      <text x="672" y="304">03 / PUBLISH</text>
+    </g>
+    <g fill="#f1f5f9" font-size="32" font-weight="600">
+      <text x="56" y="357">Project files</text>
+      <text x="364" y="357">Three layers</text>
+      <text x="672" y="357">Your identity</text>
+    </g>
+    <g fill="#bdcbde" font-size="23">
+      <text x="56" y="401">Code, docs, visuals</text>
+      <text x="364" y="401">Files · Index · Commits</text>
+      <text x="672" y="401">A checked commit</text>
+    </g>
+    <rect x="48" y="500" width="237" height="49" rx="24" fill="#183454" stroke="#365e85"/>
+    <text x="166" y="532" text-anchor="middle" fill="#dbeafe" font-size="23" font-weight="600">Source upload</text>
+    <rect x="306" y="500" width="307" height="49" rx="24" fill="#103a3b" stroke="#296b65"/>
+    <text x="459" y="532" text-anchor="middle" fill="#b9f5e7" font-size="23" font-weight="600">Release on request</text>
+    <text x="49" y="585" fill="#b4c6dc" font-size="23">English-first documentation. Clear checks. Explicit scope.</text>
+  </g>
+</svg>

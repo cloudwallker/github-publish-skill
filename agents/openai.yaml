@@ -1,0 +1,6 @@
+interface:
+  display_name: "GitHub 项目发布"
+  short_description: "轻量整理源码、核验隐私与身份，制作英文优先的双语展示，上传 GitHub 或按需发布 Release"
+  default_prompt: "使用 $github-publish 轻量整理并发布这个项目到我的 GitHub，默认私有，排除对话与规划，核验我的提交身份，制作英文优先的双语 README、简介和项目图片；仅在我要求发布版本时创建 Release。"
+policy:
+  allow_implicit_invocation: true
