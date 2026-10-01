@@ -12,6 +12,8 @@ English | [中文](README_ZH.md)
 
 *Workflow illustration, not an application screenshot. Publishing is performed by the agent; the included audit script is read-only.*
 
+![github-publish-skill](assets/cartoon-infographic.png)
+
 ## Highlights
 
 - **Prepare a focused publication.** Organize source files, documentation, and assets while preserving the project's existing structure. Exclude private configuration and development conversations.
