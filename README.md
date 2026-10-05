@@ -10,7 +10,7 @@ English | [中文](README_ZH.md)
 
 ![Workflow from local project through preparation, identity verification, three audit scopes, and GitHub publication](assets/workflow.svg)
 
-*Workflow illustration, not an application screenshot. Publishing is performed by the agent; the included audit script is read-only.*
+*Publishing workflow: the agent prepares and publishes the project, supported by the included read-only audit script.*
 
 ![github-publish-skill](assets/cartoon-infographic.png)
 

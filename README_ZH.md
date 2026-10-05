@@ -10,7 +10,7 @@
 
 ![从本地项目经过整理、身份核验、三层审计到 GitHub 发布的工作流程](assets/workflow.svg)
 
-*这是工作流程说明图，不是应用运行截图。发布操作由代理执行；随附的审计脚本只读。*
+*发布工作流程：代理整理并发布项目，随附的只读审计脚本提供检查支持。*
 
 ![github-publish-skill](assets/cartoon-infographic.png)
 
